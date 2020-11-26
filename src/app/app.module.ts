@@ -10,7 +10,6 @@ import { CompTestComponent } from './comp-test/comp-test.component';
     CompTestComponent
   ],
   imports: [
-    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent],
